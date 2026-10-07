@@ -22,6 +22,6 @@ Research on fruit fly dispersal to support pest management. This page brings tog
 
 Supported by Belgian Development Cooperation through the Directorate General for Development Cooperation and Humanitarian Aid (DGD), within cooperation programmes with RMCA.
 
-[DISPEST and the 2019 to 2023 programme](https://fruitflies.africamuseum.be/activities/phd_students/luis_bota) · [DISPEST funding acknowledgement](https://www.africamuseum.be/sites/default/files/media/research/training/fruitflies/Call-Fruitflies2022.pdf) · [DISPEST_2 and the 2024 to 2029 programme](https://fruitflies.africamuseum.be/node/173)
+[RMCA project directory](https://www.africamuseum.be/en/staff/896/project_view)
 
 [Laboratory homepage](https://github.com/molecular-lab-RMCA)
