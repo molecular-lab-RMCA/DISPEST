@@ -22,6 +22,6 @@ Research on fruit fly dispersal to support pest management. This page brings tog
 
 Supported by Belgian Development Cooperation through the Directorate General for Development Cooperation and Humanitarian Aid (DGD), within cooperation programmes with RMCA.
 
-[RMCA project directory](https://www.africamuseum.be/en/staff/896/project_view)
+[DISPEST project information](https://www.africamuseum.be/en/staff/896/project_detail_view?prjid=700) · [DISPEST_2 project information](https://www.africamuseum.be/en/staff/896/project_detail_view?prjid=770)
 
 [Laboratory homepage](https://github.com/molecular-lab-RMCA)
