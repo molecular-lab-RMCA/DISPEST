@@ -25,6 +25,18 @@ Research on fruit fly dispersal to support pest management. This page brings tog
 | --- | --- | --- |
 | [Kabota et al.: pollen metabarcoding (DISPEST)](https://github.com/molecular-lab-RMCA/Kabota_et_al_pollen_metabarcoding_DISPEST) | DNA metabarcoding | R scripts and reference sequence resources for pollen metabarcoding |
 
+## Planned repositories
+
+These private placeholders will hold scripts, documentation and outputs for the following studies.
+
+| Researcher | Planned study | Technical approach |
+| --- | --- | --- |
+| Luis Bota | *Zeugodacus cucurbitae* distribution modelling (2026) | Species distribution modelling |
+| Joseph Ruboha | *Ceratitis cosyra* distribution modelling (2026) | Species distribution modelling |
+| Jenipher Tairo | *Ceratitis rosa* and *Ceratitis fasciventris* distribution modelling (2026) | Species distribution modelling |
+| Happy Leonard | *Dacus* distribution modelling (2026) | Species distribution modelling |
+| Happy Leonard | *Dacus* gut microbiome characterisation (2026) | Microbiome analysis |
+
 [Internal repositories (restricted access)](https://github.com/molecular-lab-RMCA/.github-private/blob/main/DISPEST.md)
 
 ## Funding
