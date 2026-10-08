@@ -23,7 +23,6 @@ Research on fruit fly dispersal to support pest management. This page brings tog
 
 | Repository | Contents |
 | --- | --- |
-| [Esselens et al. (2026): African Dacus](https://github.com/molecular-lab-RMCA/Esselens-et-al.-2026_African-Dacus) | Phylogenomic alignments, trees and metadata |
 | [Kabota et al.: pollen metabarcoding](https://github.com/molecular-lab-RMCA/Kabota-et-al_pollen-metabarcoding) | R scripts and reference sequence resources for pollen metabarcoding |
 
 [Internal repositories (restricted access)](https://github.com/molecular-lab-RMCA/.github-private/blob/main/DISPEST.md)
