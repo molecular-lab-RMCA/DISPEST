@@ -27,14 +27,14 @@ Research on fruit fly dispersal to support pest management. This page brings tog
 
 ## Planned repositories
 
-These private placeholders will hold scripts, documentation and outputs for the following studies.
+These private placeholders will hold scripts, documentation and outputs for the following studies. The modelling studies relate species distributions to population genomic structure in the target species.
 
 | Researcher | Planned study | Technical approach |
 | --- | --- | --- |
-| Luis Bota | *Zeugodacus cucurbitae* distribution modelling (2026) | Species distribution modelling |
-| Joseph Ruboha | *Ceratitis cosyra* distribution modelling (2026) | Species distribution modelling |
-| Jenipher Tairo | *Ceratitis rosa* and *Ceratitis fasciventris* distribution modelling (2026) | Species distribution modelling |
-| Happy Leonard | *Dacus* distribution modelling (2026) | Species distribution modelling |
+| Luis Bota | *Zeugodacus cucurbitae* distribution modelling (2026) | Population genomics and species distribution modelling |
+| Joseph Ruboha | *Ceratitis cosyra* distribution modelling (2026) | Population genomics and species distribution modelling |
+| Jenipher Tairo | *Ceratitis rosa* and *Ceratitis fasciventris* distribution modelling (2026) | Population genomics and species distribution modelling |
+| Happy Leonard | *Dacus* distribution modelling (2026) | Population genomics and species distribution modelling |
 | Happy Leonard | *Dacus* gut microbiome characterisation (2026) | Microbiome analysis |
 
 [Internal repositories (restricted access)](https://github.com/molecular-lab-RMCA/.github-private/blob/main/DISPEST.md)
