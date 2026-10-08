@@ -21,9 +21,9 @@ Research on fruit fly dispersal to support pest management. This page brings tog
 
 ## Public repositories
 
-| Repository | Contents |
-| --- | --- |
-| [Kabota et al.: pollen metabarcoding](https://github.com/molecular-lab-RMCA/Kabota-et-al_pollen-metabarcoding) | R scripts and reference sequence resources for pollen metabarcoding |
+| Repository | Technical approach | Contents |
+| --- | --- | --- |
+| [Kabota et al.: pollen metabarcoding](https://github.com/molecular-lab-RMCA/Kabota-et-al_pollen-metabarcoding) | DNA metabarcoding | R scripts and reference sequence resources for pollen metabarcoding |
 
 [Internal repositories (restricted access)](https://github.com/molecular-lab-RMCA/.github-private/blob/main/DISPEST.md)
 
