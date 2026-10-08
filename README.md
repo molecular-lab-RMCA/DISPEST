@@ -9,6 +9,16 @@ Research on fruit fly dispersal to support pest management. This page brings tog
 | DISPEST | 2019 to 2023 |
 | DISPEST_2 | 2024 to 2029 |
 
+## Partners and collaborators
+
+| Institution | Country | Project phase |
+| --- | --- | --- |
+| Royal Museum for Central Africa (RMCA) | Belgium | DISPEST and DISPEST_2 |
+| Eduardo Mondlane University (EMU) | Mozambique | DISPEST and DISPEST_2 |
+| Sokoine University of Agriculture (SUA) | Tanzania | DISPEST_2 |
+| Stellenbosch University | South Africa | DISPEST and DISPEST_2 |
+| Citrus Research International (CRI) | South Africa | DISPEST and DISPEST_2 |
+
 ## Public repositories
 
 | Repository | Contents |
