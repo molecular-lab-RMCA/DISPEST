@@ -33,7 +33,7 @@ These private placeholders will hold scripts, documentation and outputs for the 
 | --- | --- | --- |
 | Luis Bota | *Zeugodacus cucurbitae* distribution modelling (2026) | Population genomics and species distribution modelling |
 | Joseph Ruboha | *Ceratitis cosyra* distribution modelling (2026) | Population genomics and species distribution modelling |
-| Jenipher Tairo | *Ceratitis rosa* and *Ceratitis fasciventris* distribution modelling (2026) | Population genomics and species distribution modelling |
+| Jenipher Tairo | *Ceratitis rosa* and *Ceratitis quilicii* distribution modelling (2026) | Population genomics and species distribution modelling |
 | Happy Leonard | *Dacus* distribution modelling (2026) | Population genomics and species distribution modelling |
 | Happy Leonard | *Dacus* gut microbiome characterisation (2026) | Microbiome analysis |
 
